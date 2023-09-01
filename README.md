@@ -11,7 +11,7 @@ For this project, I leveraged Java to develop a command-based terminal adventure
 - <b>Java</b> 
 
 <h2>Detailed Project Walkthrough</h2>
-[Link to detailed project walkthrough]([https://www.dropbox.com/scl/fi/cthe14m55lossd6sg0y3g/Mission-Diffuse-Detailed-Project-Walkthrough.docx?rlkey=5b5tlt3gi60otgodq15dw1bjc&dl=0])
+https://www.dropbox.com/scl/fi/cthe14m55lossd6sg0y3g/Mission-Diffuse-Detailed-Project-Walkthrough.docx?rlkey=5b5tlt3gi60otgodq15dw1bjc&dl=0
 <!--
  ```diff
 - text in red
