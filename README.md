@@ -1,45 +1,16 @@
 <h1>Adventure Game - Mission Diffuse</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+For this project, I leveraged Java to develop a command-based terminal adventure game featuring interactive characters and rooms, enabling users to input commands that the game processes to trigger responsive actions. The name of my game is “Mission Diffuse”. The player of this game is a bomb disposal specialist who has been sent by their department leader to a hotel where there is a bomber hiding on the rooftop terrace. To win the game, the player must find the bomber and diffuse the bomb. However, the terrace can only be accessed with a key and upon arrival the receptionist can’t find the key at reception. The player is told by the receptionist that the manager has a duplicate key to the terrace. The player must then search the hotel for the manager. When the manager is found, he informs the player that he has left the duplicate key in the pool room, but he also has a large cut on his leg. The player can help the manager by finding and giving him a bandage before continuing the search for the terrace key. After helping the manager, the player must secure the key, unlock the terrace room, and win the game by diffusing the bomb.
+
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Java</b> 
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<h2>Detailed Project Walkthrough</h2>
 
 <!--
  ```diff
